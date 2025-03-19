@@ -1,2 +1,3 @@
 # PANDAS
-A compact guide covering core Python basics for beginners — including variables, data types, operators, loops, and control flow. Perfect for quick reference or revision. Whether you're just starting your Python journey or refreshing your concepts, this resource is a great starting point for learning programming in Python.
+This PDF provides a beginner-friendly introduction to Pandas, a powerful Python library for data analysis. It includes core topics like DataFrames, Series, indexing, filtering, aggregation, and essential functions for data manipulation. A handy reference guide for learners and data enthusiasts exploring Python's data science ecosystem.
+
